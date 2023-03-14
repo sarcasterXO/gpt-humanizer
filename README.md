@@ -23,8 +23,8 @@ a Pynecone app that converts AI-generated text into human-readable text, allowin
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![GPT-Humanizer](https://ibb.co/hVhvH21)
-![AI Detection](https://ibb.co/dLWV3vC)
+![GPT-Humanizer](https://i.ibb.co/L1bf69h/image-2023-03-13-233647913.png)
+![AI Detection](https://i.ibb.co/8dKfRwv/image-2023-03-13-233746190.png)
 
 The purpose of this project is to convert AI-generated text into human-readable text, allowing users to bypass AI detection.
 
