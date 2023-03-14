@@ -33,7 +33,7 @@ The purpose of this project is to convert AI-generated text into human-readable 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This project is built on the new [Pynecone] Python framework that allows making web-apps in pure Python.
+This project is built on the new [Pynecone](https://github.com/pynecone-io/pynecone) Python framework that allows making web-apps in pure Python.
 
 ### Prerequisites
 * Python 3.7+
