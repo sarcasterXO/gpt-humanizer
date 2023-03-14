@@ -1,10 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 # GPT-Humanizer
 a Pynecone app that converts AI-generated text into human-readable text, allowing users to bypass AI detection.
 
@@ -29,8 +22,8 @@ a Pynecone app that converts AI-generated text into human-readable text, allowin
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![GPT-Humanizer][GPT-Humanizer]](https://ibb.co/hVhvH21)
-[![AI Detection][AI Detection]](https://ibb.co/dLWV3vC)
+![GPT-Humanizer](https://ibb.co/hVhvH21)
+![AI Detection](https://ibb.co/dLWV3vC)
 
 The purpose of this project is to convert AI-generated text into human-readable text, allowing users to bypass AI detection.
 
@@ -42,11 +35,11 @@ The purpose of this project is to convert AI-generated text into human-readable 
 This project is built on the new [Pynecone] Python framework that allows making web-apps in pure Python.
 
 ### Prerequisites
-⋅⋅* Python 3.7+
-⋅⋅* [Node.js 12.22.0+](https://nodejs.org/en/) (Don't worry, you'll never have to write any Javascript)
-⋅⋅* [OpenAI API Key](https://platform.openai.com/account/api-keys)
-⋅⋅* [Pynecone](https://github.com/pynecone-io/pynecone)
-⋅⋅* [OpenAI 0.27.2](https://pypi.org/project/openai/)
+* Python 3.7+
+* [Node.js 12.22.0+](https://nodejs.org/en/) (Don't worry, you'll never have to write any Javascript)
+* [OpenAI API Key](https://platform.openai.com/account/api-keys)
+* [Pynecone](https://github.com/pynecone-io/pynecone)
+* [OpenAI 0.27.2](https://pypi.org/project/openai/)
 
 ### Installation
 
@@ -54,12 +47,14 @@ This project is built on the new [Pynecone] Python framework that allows making 
 2. Install [Node.js](https://nodejs.org/en/)
 3. Install Pynecone
    ```sh
-  pip install pynecone
+   pip install pynecone
    ```
+   
 4. Install OpenAI
    ```sh
-  pip install openai==0.27.2
+   pip install openai==0.27.2
    ```
+   
 5. Enter your API in `gpt-humanizer.py`
    ```py
    openai.api_key = 'ENTER YOUR API KEY'
